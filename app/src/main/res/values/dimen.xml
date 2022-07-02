@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="captureButtonSmall">32dp</dimen>
+    <dimen name="captureButtonMedium">64dp</dimen>
+    <dimen name="captureButtonLarge">92dp</dimen>
+
+    <dimen name="captureButtonMargin">20dp</dimen>
+
+
+    <dimen name="switchCameraButtonSmall">32dp</dimen>
+    <dimen name="switchCameraButtonMedium">64dp</dimen>
+    <dimen name="switchCameraButtonLarge">92dp</dimen>
+
+    <dimen name="switchCameraButtonMargin">10dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">240dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="models">
+        <item>Facenet</item>
+        <item>DeepID</item>
+    </string-array>
+
+    <string-array name="metrics">
+        <item>euclidean</item>
+        <item>euclidean</item>
+    </string-array>
+
+    <string-array name="threshold">
+        <item>10</item>
+        <item>45</item>
+    </string-array>
+
+</resources>

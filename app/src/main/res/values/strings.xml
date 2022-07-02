@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Face ID</string>
+
+
+    <string name="main_NoPermissions_hint">Missing key permissions. The application will be closed.</string>
+    <string name="main_deleteUser_button">Delete user</string>
+    <string name="main_addUser_button">Add user</string>
+    <string name="main_openPreview_button">Open Face ID Camera</string>
+    <string name="main_openBenchmark_button">Open benchmark</string>
+
+    <string name="addFace_Username_hint">User name (Max 10 characters)</string>
+    <string name="addFace_UsernameNotGiven_toast">No user name entered!</string>
+    <string name="addFace_UserAdded_toast">Added user %s</string>
+    <string name="addFace_NotOneFaceFound_toast">"Rasmdan yuzni aniqlashdi iloji bo'lmadi iltimos boshqa rasmdan foydalaning!!!"</string>
+    <string name="addFace_resultData_name">ResultData</string>
+    <string name="addFace_calculationNotFinished_toast">The calculations have not been completed!</string>
+    <string name="addFace_ChooseModelName_intentValue">usedModels</string>
+    <string name="addFace_photoLoading_toast">Photo loading error</string>
+    <string name="addFace_Add_button">Add</string>
+    <string name="addFace_Cancel_button">Cancel</string>
+    <string name="addFace_TakePicture_button">Gallery</string>
+    <string name="addFace_ChooseFromDisk_button">Camera</string>
+    <string name="addFace_AddMany_button">Add many from dir</string>
+
+    <string name="settings_title_activity">SettingsActivity</string>
+    <string name="settings_userName">userSettings</string>
+    <string name="settings_benchmarkMode">Choose models to run in benchmark mode</string>
+    <string name="settings_userMode">Choose model</string>
+    <string name="settings_userModel_key">UserModel</string>
+    <string name="settings_userModel_suffix">Benchmark</string>
+
+    <string name="camerapreview_captureButton_desc">Capture</string>
+
+    <string name="settings_benchModel_suffix">Benchmark</string>
+
+    <string name="BenchmarkMode_ModelDatabaseName_Suffix">_benchmark</string>
+    <string name="BenchmarkMode_Return_Text">Return</string>
+    <string name="BenchmarkMode_Add_Text">Add</string>
+    <string name="BenchmarkMode_CancelButton_Text">Cancel</string>
+    <string name="BenchmarkMode_MakeImage_Text">Take a picture</string>
+    <string name="BenchmarkMode_ChoosePhoto_Text">Choose images</string>
+    <string name="BenchmarkMode_PhotoCount_Text">Images number: 0</string>
+    <string name="BenchmarkMode_DeletePhoto_Text">Delete image</string>
+    <string name="BenchmarkMode_ImageView_ContentDescription">Chosen photo view</string>
+    <string name="BenchmarkMode_AddFace_Text">Add face</string>
+    <string name="BenchmarkMode_MakePhoto_Text">Add test image</string>
+    <string name="BenchmarkMode_Text_Text">Test</string>
+    <string name="BenchmarkMode_NoPhotoSelected_Toast">No image selected</string>
+    <string name="BenchmarkMode_NumberOfUsers_Format">%d faces in the database</string>
+    <string name="BenchmarkMode_NumberOfPhotos_Format">Added %d images for tests</string>
+    <string name="BenchmarkMode_NoPhoto_Toast">Lacking supported model</string>
+    <string name="BenchmarkMode_DeleteFaceButton_Text">Delete face</string>
+
+    <string name="DeleteUser_UserName_Text">Username</string>
+    <string name="DeleteUser_NumberOfPhotos_Text">Image count</string>
+    <string name="DeleteUser_DeleteUserButton_Text">Delete</string>
+
+    <string name="menu_Settings_text">Settings</string>
+    <string name="menu_About_text">About</string>
+
+    <string name="navDrawer_open_state">Open</string>
+    <string name="navDrawer_close_state">Close</string>
+
+    <string name="Euclidean">Euclidean</string>
+</resources>
